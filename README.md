@@ -13,7 +13,6 @@
 ## :sassy_man:  About me  
 - :school: I `graduated` from Faculty of Computers & Information at Minya University  
 - :student: I’m currently learning: `Angular Framework`.  
-- 🔭 I'm currently a `trainee` at ITI intensive code camp  
 - 📫 How to reach me **yasmeen.mahdy121@gmail.com**  
 - :nerd_face: Always `learning new things`   
   
@@ -38,4 +37,4 @@
 -----  
 Credits: [Yasmeen Mahdy](https://github.com/YasmeenMahdy121)  
   
-Last Edited on: 07/06/2022
+Last Edited on: 27/08/2022
