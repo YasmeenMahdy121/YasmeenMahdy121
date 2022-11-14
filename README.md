@@ -19,7 +19,7 @@
   
 ## Connect with me  
 <p align="center">  
-<a href="mailto:yasmeen.mahdy121@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>  
+<a href="mailto:yasmeen.mahdy.fe@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>  
 <a href="https://github.com/YasmeenMahdy121"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>  
 <a href="https://www.linkedin.com/in/yasmeen-mahdy-a11520220/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
 <a href="https://www.facebook.com/YasmeenMahdy121/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>  
@@ -36,4 +36,4 @@
 -----  
 Credits: [Yasmeen Mahdy](https://github.com/YasmeenMahdy121)  
   
-Last Edited on: 27/08/2022
+Last Edited on: 15/11/2022
