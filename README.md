@@ -13,7 +13,7 @@
 ## :sassy_man:  About me  
 - :school: I `graduated` from Faculty of Computers & Information at Minya University  
 - :student: I’m currently learning: `Angular Framework`.  
-- 📫 How to reach me **yasmeen.mahdy121@gmail.com**  
+- 📫 How to reach me **yasmeen.mahdy.fe@gmail.com**  
 - :nerd_face: Always `learning new things`   
   
 <br>  
